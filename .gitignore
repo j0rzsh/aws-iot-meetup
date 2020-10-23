@@ -1,0 +1,13 @@
+000_personal_locals.tf
+00_main.tf
+notebook.txt
+.vscode/
+certs/sensor*
+config/
+
+# Local .terraform directories
+**/.terraform/*
+.terraform
+# .tfstate files
+*.tfstate
+*.tfstate.*
